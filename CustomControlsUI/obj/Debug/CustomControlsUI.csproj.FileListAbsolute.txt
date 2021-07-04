@@ -1,0 +1,11 @@
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\bin\Debug\CustomControlsUI.exe.config
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\bin\Debug\CustomControlsUI.exe
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\bin\Debug\CustomControlsUI.pdb
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.csprojAssemblyReference.cache
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.Properties.Resources.resources
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.UserControls.TextboxCustom.resources
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.csproj.GenerateResource.cache
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.csproj.CoreCompileInputs.cache
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.exe
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.pdb
+G:\C# WinForms\CustomControlsUI\CustomControlsUI\CustomControlsUI\obj\Debug\CustomControlsUI.Form1.resources
