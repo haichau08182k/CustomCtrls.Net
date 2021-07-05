@@ -41,7 +41,7 @@
             this.progressBarCustom1.ChannelHeight = 6;
             this.progressBarCustom1.ForeBackColor = System.Drawing.Color.RoyalBlue;
             this.progressBarCustom1.ForeColor = System.Drawing.Color.White;
-            this.progressBarCustom1.Location = new System.Drawing.Point(154, 146);
+            this.progressBarCustom1.Location = new System.Drawing.Point(69, 106);
             this.progressBarCustom1.Name = "progressBarCustom1";
             this.progressBarCustom1.ShowMaximun = false;
             this.progressBarCustom1.ShowValue = CustomControlsUI.ClassControls.TextPosition.Right;
@@ -62,9 +62,9 @@
             this.buttonRadius1.FlatAppearance.BorderSize = 0;
             this.buttonRadius1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonRadius1.ForeColor = System.Drawing.Color.White;
-            this.buttonRadius1.Location = new System.Drawing.Point(406, 51);
+            this.buttonRadius1.Location = new System.Drawing.Point(238, 190);
             this.buttonRadius1.Name = "buttonRadius1";
-            this.buttonRadius1.Size = new System.Drawing.Size(150, 40);
+            this.buttonRadius1.Size = new System.Drawing.Size(131, 40);
             this.buttonRadius1.TabIndex = 1;
             this.buttonRadius1.Text = "buttonRadius1";
             this.buttonRadius1.TextColor = System.Drawing.Color.White;
@@ -93,7 +93,7 @@
             // toggleButton1
             // 
             this.toggleButton1.AutoSize = true;
-            this.toggleButton1.Location = new System.Drawing.Point(269, 205);
+            this.toggleButton1.Location = new System.Drawing.Point(69, 208);
             this.toggleButton1.MinimumSize = new System.Drawing.Size(45, 22);
             this.toggleButton1.Name = "toggleButton1";
             this.toggleButton1.OffBackColor = System.Drawing.Color.Red;
@@ -109,10 +109,10 @@
             this.datimePickerCustom1.BorderColor = System.Drawing.Color.PaleVioletRed;
             this.datimePickerCustom1.BorderSize = 0;
             this.datimePickerCustom1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.5F);
-            this.datimePickerCustom1.Location = new System.Drawing.Point(394, 215);
-            this.datimePickerCustom1.MinimumSize = new System.Drawing.Size(0, 35);
+            this.datimePickerCustom1.Location = new System.Drawing.Point(69, 138);
+            this.datimePickerCustom1.MinimumSize = new System.Drawing.Size(4, 35);
             this.datimePickerCustom1.Name = "datimePickerCustom1";
-            this.datimePickerCustom1.Size = new System.Drawing.Size(199, 35);
+            this.datimePickerCustom1.Size = new System.Drawing.Size(319, 35);
             this.datimePickerCustom1.SkinColor = System.Drawing.Color.MediumSlateBlue;
             this.datimePickerCustom1.TabIndex = 4;
             this.datimePickerCustom1.TextColor = System.Drawing.Color.White;
